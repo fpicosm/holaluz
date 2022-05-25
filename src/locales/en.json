@@ -1,0 +1,26 @@
+{
+  "label": {
+    "client": "Client",
+    "home": "Go home",
+    "no_client": "Ups... there is no client with this CUPS",
+    "rooftop_revolution": "Rooftop revolution",
+    "supply_point": "Supply point"
+  },
+  "client": {
+    "address": "Address",
+    "full_name": "Full name",
+    "role": "Role",
+    "building_type": "Building type"
+  },
+  "supply_point": {
+    "tariff": "Tariff",
+    "invoiced_amount": "Invoiced amount",
+    "power": "Power",
+    "neighbors": "Neighbors"
+  },
+  "rooftop_revolution": {
+    "discount": "Discount",
+    "unavailable": "Promotion not available",
+    "user": "User"
+  }
+}

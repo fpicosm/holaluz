@@ -1,0 +1,17 @@
+$color-primary: #e5007e;
+$color-white: #fff;
+
+:root {
+  --color-primary: #{$color-primary};
+  --color-white: #{$color-white};
+}
+
+.bg {
+  &-primary { background-color: $color-primary !important }
+  &-white { background-color: $color-white !important }
+}
+
+.text {
+  &-primary { color: $color-primary !important }
+  &-white { color: $color-white !important }
+}
